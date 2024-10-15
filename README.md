@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sujal-Mishra
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me my email address:
+
 
 <!---
 Sujal-Mishra/Sujal-Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
